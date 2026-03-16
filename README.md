@@ -2,12 +2,12 @@
 
 Welcome to my page!
 
-I'm [Derrick Lam], a [Computer Engineer] from [Toronto, Canada].
+I'm Derrick Lam, a Computer Hardware Engineer from Toronto, Canada.
 
 ## About Me
-- Computer Engineering student at TMU
-- Interested in FPGA, embedded systems, AI, and hardware design
-- Currently working on projects in VHDL, Verilog, and Java
+- Computer Hardware Engineering student at TMU
+- I love in FPGA, embedded systems, AI, and hardware design!
+- Currently working on projects in VHDL, Verilog, Python, Java, and learning more about AI.
 
 ## My Loadout
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,linux,git,github,matlab,arduino,bash&perline=5)](https://skillicons.dev)
