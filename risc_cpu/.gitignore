@@ -1,0 +1,4 @@
+# Icarus Verilog compiled objects
+*.vvp
+# VCD waveform files
+*.vcd

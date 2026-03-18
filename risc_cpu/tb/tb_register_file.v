@@ -1,5 +1,5 @@
 // =============================================================================
-// tb_register_file.v  –  Register File Testbench
+// tb_register_file.v  -  Register File Testbench
 // Tests read/write, x0 hardwired to 0, two read ports
 // =============================================================================
 `timescale 1ns/1ps

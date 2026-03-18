@@ -1,5 +1,5 @@
 // =============================================================================
-// tb_hazard_forwarding.v  –  Hazard Detection & Forwarding Unit Testbench
+// tb_hazard_forwarding.v  -  Hazard Detection & Forwarding Unit Testbench
 // =============================================================================
 `timescale 1ns/1ps
 

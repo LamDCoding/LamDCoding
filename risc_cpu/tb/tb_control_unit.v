@@ -1,5 +1,5 @@
 // =============================================================================
-// tb_control_unit.v  –  Control Unit Testbench
+// tb_control_unit.v  -  Control Unit Testbench
 // Tests each opcode for correct control signal generation
 // =============================================================================
 `timescale 1ns/1ps

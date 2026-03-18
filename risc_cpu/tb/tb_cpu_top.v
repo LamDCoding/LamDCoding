@@ -1,5 +1,5 @@
 // =============================================================================
-// tb_cpu_top.v  –  Full CPU Testbench
+// tb_cpu_top.v  -  Full CPU Testbench
 // Loads a simple test program, simulates 200 cycles, dumps VCD waveform
 //
 // Test program sequence (loaded via instr_mem.hex):
